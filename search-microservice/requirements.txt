@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+duckduckgo_search
+requests
+beautifulsoup4
+readability-lxml
+python-dotenv
