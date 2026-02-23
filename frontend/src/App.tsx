@@ -67,13 +67,9 @@ export default function App() {
       <aside className="sidebar">
         <div className="logo">⚖ Constitutional AI</div>
 
-        <button className="new-chat">+ New Chat</button>
+        
 
-        <div className="sidebar-section">
-          <div className="section-title">Recent Queries</div>
-          <div className="sidebar-item">Internet shutdown legality</div>
-          <div className="sidebar-item">Preventive detention law</div>
-        </div>
+        
 
         <div className="sidebar-footer">
           Indian Constitutional & Penal Law Assistant
